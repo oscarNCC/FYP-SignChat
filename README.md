@@ -1,6 +1,6 @@
 # FYP - SignChat
 SignChat application is an iOS application which translate sign language. It applies Multi-hand Tracking ML solutions in [MediaPipe](https://github.com/google/mediapipe) framework to capture sign data.
-Introduction
+##Introduction
 https://www.youtube.com/watch?v=xQbxFl4ju1Y&list=PLci2z87RuSLwgzTVfzN5kCzeaT8njKZ6i&index=1
 
 ## Installation
