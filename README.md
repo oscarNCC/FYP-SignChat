@@ -8,7 +8,7 @@ Third Prize (Information Technology) The 6-th Hong Kong University Student Innov
 [![Watch the video](https://img.youtube.com/vi/xQbxFl4ju1Y/0.jpg)](https://www.youtube.com/watch?v=xQbxFl4ju1Y "Watch the video")
 Demo
 [![Watch the video](https://img.youtube.com/vi/82r3OOJMhio/0.jpg)](https://www.youtube.com/watch?v=82r3OOJMhio "Watch the video")
-Demo https://www.youtube.com/watch?v=82r3OOJMhio&ab_channel=NgaiChinChan
+
 
 ## Installation
 1. Follw the [instructions](https://github.com/google/mediapipe/blob/master/mediapipe/docs/mediapipe_ios_setup.md) to set up Mediapipe for iOS.
