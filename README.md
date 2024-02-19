@@ -7,6 +7,8 @@ Third Prize (Information Technology) The 6-th Hong Kong University Student Innov
 ## Introduction
 Sign Chat https://www.youtube.com/watch?v=xQbxFl4ju1Y&list=PLci2z87RuSLwgzTVfzN5kCzeaT8njKZ6i&index=1
 
+[![Watch the video](https://www.youtube.com/watch?v=xQbxFl4ju1Y/0.jpg)](https://www.youtube.com/watch?v=xQbxFl4ju1Y "Watch the video")
+
 Demo https://www.youtube.com/watch?v=82r3OOJMhio&ab_channel=NgaiChinChan
 
 ## Installation
