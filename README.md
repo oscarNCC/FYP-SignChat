@@ -28,3 +28,8 @@ Third Prize (Information Technology) The 6-th Hong Kong University Student Innov
    ```
    
 4. Run the project in XCode.
+
+### Team Members
+- [Yannis Ng](https://github.com/eching0519) : System design, UI design, Plugin application, Implementation
+- [Oscar Chan](https://github.com/oscarNCC): Database design, Documentation, Implementation
+- Hin
