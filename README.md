@@ -3,6 +3,7 @@ SignChat application is an iOS application which translate sign language. It app
 
 # Competition
 Third Prize (Information Technology) The 6-th Hong Kong University Student Innovation and Entrepreneurship Competition
+https://www.hkchallengeplus.com/en/
 
 ## Introduction & Demo
 [![Watch the video](https://img.youtube.com/vi/xQbxFl4ju1Y/0.jpg)](https://www.youtube.com/watch?v=xQbxFl4ju1Y "Watch the video")
